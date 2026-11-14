@@ -1,7 +1,0 @@
-streamlit
-yfinance
-pandas
-requests
-feedparser
-plotly
-lxml
